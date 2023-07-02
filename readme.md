@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-	Essa atividade foi desenvolvido para explorar as principais funcionalidade do microcontrolador ATMEGA128p. Ela foi desenvolvida através de um arduino, uma vez que facilita a comunicação entre alguns componentes, mas também poderia ser desenvolvida partindo do microcontrolador, através de um projeto melhor elaborado. As principais funcionalidades exploradas foram:
+	Essa atividade foi desenvolvido para explorar as principais funcionalidade do microcontrolador ATMEGA128p.<br> Ela foi desenvolvida através de um arduino, uma vez que facilita a comunicação entre alguns componentes, <br> mas também poderia ser desenvolvida partindo do microcontrolador, através de um projeto melhor elaborado.<br> As principais funcionalidades exploradas foram:
 		- Comunicação I2C;
 		- Funcionamento de rotinas de interrupção;
 		- Desenvolvimento com temporizadores;
@@ -12,7 +12,7 @@
 		- Controle PWM.
 
 ## Funcionalidades
-	Esse projeto originalmente se trata de uma abordagem para controlar a velocidade de um motor. Para isso, o sistema dimensionado foi desenvolvido desde a parte de leitura da velocidade do motor, até o interface para controlar sua velocidade via bluetooth ou terminal. Abaixo é possível visualizar o diagrama de bloco e o esquemático do sistema, que detalham a comunicação entre os módulos. 
+	Esse projeto originalmente se trata de uma abordagem para controlar a velocidade de um motor. <br>Para isso, o sistema dimensionado foi desenvolvido desde a parte de leitura da velocidade do motor,<br> até o interface para controlar sua velocidade via bluetooth ou terminal. <br>Abaixo é possível visualizar o diagrama de bloco e o esquemático do sistema, que detalham a comunicação entre os módulos. 
 
 ![componentes](./images/diagrama_blocos.png)
 <p align="center">Diagrama de blocos</p>
@@ -36,4 +36,4 @@
 
 ## Observações
 
-	O controle da velocidade foi realizado tendo em vista que a tensão eficaz que advém do PWM é diretamente proporcional à velocidade do motor. Contudo, essa afirmativa pode não ser verdade dependendo do ruído causado na saída da ponte H. Sendo assim, caso o ruído apresentado seja suficiente para impedir com que a velocidade do motor seja adequada, será necessário controlar o motor por outra abordagem. Outra maneira de controlar o motor seria por alguma solução numérica, através de determinação de raízes, iterando.
+	O controle da velocidade foi realizado tendo em vista que a tensão eficaz que advém do PWM é diretamente<br> proporcional à velocidade do motor. Contudo, essa afirmativa pode não ser verdade dependendo do ruído causado na saída da ponte H. <br>Sendo assim, caso o ruído apresentado seja suficiente para impedir com que a velocidade do motor seja adequada, será necessário controlar o motor por outra abordagem.<br> Outra maneira de controlar o motor seria por alguma solução numérica, através de determinação de raízes, iterando.
