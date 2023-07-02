@@ -14,7 +14,7 @@
 ## Funcionalidades
 	Esse projeto originalmente se trata de uma abordagem para controlar a velocidade de um motor. Para isso, o sistema dimensionado foi desenvolvido desde a parte de leitura da velocidade do motor, até o interface para controlar sua velocidade via bluetooth ou terminal. Abaixo é possível visualizar o diagrama de bloco e o esquemático do sistema, que detalham a comunicação entre os módulos. 
 
-![componentes](./images/download.png)
+![componentes](./images/diagrama_blocos.png)
 <p align="center">Diagrama de blocos</p>
 ![esquemático](./images/esquematico_motor.png)
 <p align="center">Esquemático do sistema</p>
