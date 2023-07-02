@@ -16,6 +16,7 @@
 
 ![componentes](./images/diagrama_blocos.png)
 <p align="center">Diagrama de blocos</p>
+
 ![esquemático](./images/esquematico_motor.png)
 <p align="center">Esquemático do sistema</p>
 
