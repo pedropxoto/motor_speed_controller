@@ -3,13 +3,14 @@
 ## Objetivo
 
 Essa atividade foi desenvolvido para explorar as principais funcionalidade do microcontrolador ATMEGA128p. Ela foi desenvolvida através de um arduino, uma vez que facilita a comunicação entre alguns componentes,  mas também poderia ser desenvolvida partindo do microcontrolador, através de um projeto melhor elaborado. As principais funcionalidades exploradas foram:
-		- Comunicação I2C;
-		- Funcionamento de rotinas de interrupção;
-		- Desenvolvimento com temporizadores;
-		- Sistema com atuadores e sensores;
-		- Comunicação via Bluetooth;
-		- Multiplexação de Displays;
-		- Controle PWM.
+
+        - Comunicação I2C;
+        - Funcionamento de rotinas de interrupção;
+        - Desenvolvimento com temporizadores;
+        - Sistema com atuadores e sensores;
+        - Comunicação via Bluetooth;
+        - Multiplexação de Displays;
+        - Controle PWM.
 
 ## Funcionalidades
 
